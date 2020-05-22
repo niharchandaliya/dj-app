@@ -16,6 +16,10 @@ Creating a new project
 
 ### Views
 * They take in requests and give back appropriate responses.
-* They Live in mysite/apps/views.py
+
+#### Common Usage 
+
+    from django.urls import path
+* They live in mysite/apps/views.py
 * These are linked with urls.py in mysite/ path.
 
