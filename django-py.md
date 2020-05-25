@@ -31,5 +31,6 @@ Creating a new project
 ### Urls
 * In url files specifically in app/urls.py use the import as follows
 
-    from . import views
+    from . import views  
+
 The `.` specifies importing from the same path as the urls.py.
