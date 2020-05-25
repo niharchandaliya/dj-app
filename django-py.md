@@ -29,6 +29,7 @@ Creating a new project
 
 
 ### Urls
+
 * In url files specifically in app/urls.py use the import as follows
 
     from . import views  
